@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/webapp-8/databases/Para8",
+      "type": "mssql.azure",
+      "connectionId": "laba8-database",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
